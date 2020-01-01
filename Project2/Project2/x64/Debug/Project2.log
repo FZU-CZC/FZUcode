@@ -1,0 +1,27 @@
+﻿  源.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+c:\users\独孤\desktop\armor-recognition-master\armordetector\armordetector.h(35): warning C4305: “=”: 从“double”到“float”截断
+c:\users\独孤\desktop\armor-recognition-master\armordetector\armordetector.h(38): warning C4305: “=”: 从“double”到“float”截断
+c:\users\独孤\source\repos\project2\project2\源.cpp(106): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\独孤\source\repos\project2\project2\源.cpp(120): warning C4305: “*=”: 从“double”到“_Tp”截断
+          with
+          [
+              _Tp=float
+          ]
+c:\users\独孤\source\repos\project2\project2\源.cpp(121): warning C4305: “*=”: 从“double”到“_Tp”截断
+          with
+          [
+              _Tp=float
+          ]
+c:\users\独孤\source\repos\project2\project2\源.cpp(153): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\独孤\source\repos\project2\project2\源.cpp(154): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\独孤\source\repos\project2\project2\源.cpp(155): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project2.vcxproj -> C:\Users\独孤\source\repos\Project2\x64\Debug\Project2.exe
